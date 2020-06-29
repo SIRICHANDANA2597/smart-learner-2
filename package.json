@@ -23,7 +23,7 @@
     "react-speech-recognition": "^2.0.4",
     "styled-components": "^5.0.1",
     "webkit": "0.0.0",
-    "webpack": "^4.41.5"
+    
   },
   "scripts": {
     "start": "react-scripts start",
